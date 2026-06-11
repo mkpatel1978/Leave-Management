@@ -1,0 +1,6 @@
+{
+  "name": "Leave Flow",
+  "description": "A elegant leave application system with Google Calendar integration, email-approved workflows, and balance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
